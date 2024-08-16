@@ -1,2 +1,2 @@
-# STM32
+# STM32 Workspace
 STM32 Workspace
