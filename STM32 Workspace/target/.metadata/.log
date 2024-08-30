@@ -1,0 +1,54 @@
+!SESSION 2024-08-18 00:58:44.787 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Alperen\RIGELSAN\STM32\Courses\FastbitAcademy\1 - Microcontroller Embedded C Programming Absolute Beginners\My Workspace\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-18 00:58:49.165
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-18 00:58:49.167
+!MESSAGE Log4j2 initialized with config file C:\Alperen\RIGELSAN\STM32\Courses\FastbitAcademy\1 - Microcontroller Embedded C Programming Absolute Beginners\My Workspace\target\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-18 00:58:51.182
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-08-29 10:45:42.351 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Alperen\RIGELSAN\STM32\Courses\FastbitAcademy\1 - Microcontroller Embedded C Programming Absolute Beginners\My Workspace\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-29 10:45:45.974
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-29 10:45:45.976
+!MESSAGE Log4j2 initialized with config file C:\Alperen\RIGELSAN\STM32\Courses\FastbitAcademy\1 - Microcontroller Embedded C Programming Absolute Beginners\My Workspace\target\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-29 10:45:49.207
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-08-29 11:18:28.224 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Alperen\RIGELSAN\STM32\Courses\FastbitAcademy\1 - Microcontroller Embedded C Programming Absolute Beginners\My Workspace\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-29 11:18:32.068
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-29 11:18:32.073
+!MESSAGE Log4j2 initialized with config file C:\Alperen\RIGELSAN\STM32\Courses\FastbitAcademy\1 - Microcontroller Embedded C Programming Absolute Beginners\My Workspace\target\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-29 11:18:35.000
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-29 11:47:01.513
+!MESSAGE Indexed '000TestProject' (3 sources, 53 headers) in 0.915 sec: 1,950 declarations; 2,836 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-29 11:55:35.807
+!MESSAGE Indexed '000TestProject' (3 sources, 53 headers) in 0.178 sec: 1,950 declarations; 2,835 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-29 11:55:37.997
+!MESSAGE Indexed '000TestProject' (3 sources, 53 headers) in 0.183 sec: 1,950 declarations; 2,835 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
