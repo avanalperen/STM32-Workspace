@@ -1,1 +1,15 @@
-Info: Nothing to build for 001var_address
+17:55:18 **** Rebuild of configuration Debug for project 001var_address ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:36:45: warning: format '%u' expects argument of type 'unsigned int', but argument 2 has type 'long long unsigned int' [-Wformat=]
+   36 |     printf("Address of variable a1 is : %I64u \n", addressOfA1);
+      |                                         ~~~~^      ~~~~~~~~~~~
+      |                                             |      |
+      |                                             |      long long unsigned int
+      |                                             unsigned int
+      |                                         %I64llu
+gcc -o 001var_address.exe main.o 
+
+17:55:18 Build Finished. 0 errors, 1 warnings. (took 288ms)
+

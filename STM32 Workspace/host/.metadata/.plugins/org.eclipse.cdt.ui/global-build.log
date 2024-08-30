@@ -1,5 +1,4 @@
-Info: Nothing to build for 001var_address
-17:45:15 **** Incremental Build of configuration Debug for project 001var_address ****
+17:55:18 **** Rebuild of configuration Debug for project 001var_address ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
 ..\main.c: In function 'main':
@@ -11,9 +10,3 @@ gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c"
       |                                             unsigned int
       |                                         %I64llu
 gcc -o 001var_address.exe main.o 
-Info: Nothing to build for 001var_address
-Info: Nothing to build for 001var_address
-Info: Nothing to build for 000TestProject
-Info: Nothing to build for 000TestProject
-Info: Nothing to build for 001var_address
-Info: Nothing to build for 001var_address
