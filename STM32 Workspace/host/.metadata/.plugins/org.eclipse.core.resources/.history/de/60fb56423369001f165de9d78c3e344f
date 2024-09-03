@@ -1,0 +1,22 @@
+/*
+ * main.c
+ *
+ *  Created on: Sep 2, 2024
+ *      Author: Alperen
+ */
+
+#include <stdio.h>
+
+// The library we created.
+// All the user defined header files must be called with "" instead <> like in <stdio.h>.
+
+#include "math.h"
+
+int main(void)
+{
+
+	printf("Add : %d\n",math_add(1,2));
+	printf("Sub : %d\n",math_sub(1,2));
+	printf("Div : %I64u\n",math_div(1,2));
+	printf("Multi : %f\n",math_mul(1,2));
+}

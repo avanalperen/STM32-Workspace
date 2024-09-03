@@ -1,0 +1,13 @@
+/*
+ * math.c
+ *
+ *  Created on: Sep 2, 2024
+ *      Author: Alperen
+ */
+
+int math_add(int n1, int n2)
+{
+	int sum = n1 + n2;
+
+	return sum;
+}

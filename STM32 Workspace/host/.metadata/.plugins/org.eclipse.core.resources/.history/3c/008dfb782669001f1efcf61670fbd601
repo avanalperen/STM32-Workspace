@@ -1,0 +1,20 @@
+/*
+ * function.c
+ *
+ *  Created on: Sep 2, 2024
+ *      Author: Alperen
+ */
+
+int function_add_numbers(int a,int b,int c);
+
+int main(void)
+{
+
+
+	return 0;
+}
+
+int function_add_numbers(int a,int b,int c)
+{
+
+}

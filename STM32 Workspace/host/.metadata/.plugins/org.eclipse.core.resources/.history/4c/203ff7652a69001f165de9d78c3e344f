@@ -1,0 +1,39 @@
+/*
+ * function.c
+ *
+ *  Created on: Sep 2, 2024
+ *      Author: Alperen
+ */
+#include <stdio.h>
+
+void function_add_numbers(int a,int b,int c);
+
+int main(void)
+{
+
+	int x,y,z;
+
+	printf("Please enter 3 number : \n");
+
+	scanf("%d",x);
+	scanf("%d",y);
+	scanf("%d",z);
+
+	printf("You've entered all the numbers.\n");
+
+	//int x = 1;
+	//int y = 2;
+	//int z = 3;
+
+	function_add_numbers(x,y,z);
+
+	return 0;
+}
+
+// This is function definition
+void function_add_numbers(int a,int b,int c)
+{
+	int summarization = a+b+c;
+
+	printf("The summarization of x + y + z is : %d \n",summarization);
+}

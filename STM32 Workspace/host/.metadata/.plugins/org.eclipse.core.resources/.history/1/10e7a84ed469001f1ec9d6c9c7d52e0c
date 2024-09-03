@@ -1,0 +1,31 @@
+/*
+ * type_casting.c
+ *
+ *  Created on: Sep 3, 2024
+ *      Author: Alperen
+ */
+
+#include <stdio.h>
+
+int main(void)
+{
+	// Implicit Casting which Compiler does
+
+	unsigned char data = (0x87+0xFF00);
+
+		float result = 80/3;
+
+		printf("Data : %u\n",data);
+		printf("Result : %f\n",result);
+
+	// Explicit Casting which Programmer does
+
+	unsigned char data2 = (unsigned char) (0x87+0xFF00);
+
+	float result2 = 80/3;
+
+	printf("Data : %u\n",data2);
+	printf("Result : %f\n",result2);
+
+}
+

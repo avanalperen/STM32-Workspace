@@ -1,0 +1,16 @@
+17:00:21 **** Rebuild of configuration Debug for project 003math ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:21:29: warning: format '%u' expects argument of type 'unsigned int', but argument 2 has type 'long long int' [-Wformat=]
+   21 |         printf("Multi : %I64u \n",math_mul(1,2));
+      |                         ~~~~^     ~~~~~~~~~~~~~
+      |                             |     |
+      |                             |     long long int
+      |                             unsigned int
+      |                         %I64llu
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o math.o "..\\math.c" 
+gcc -o 003math.exe main.o math.o 
+
+17:00:21 Build Finished. 0 errors, 1 warnings. (took 480ms)
+
