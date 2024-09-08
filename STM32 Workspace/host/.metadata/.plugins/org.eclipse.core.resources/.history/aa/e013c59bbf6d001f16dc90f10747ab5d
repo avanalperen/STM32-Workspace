@@ -1,0 +1,19 @@
+/*
+ * floatPrice.c
+ *
+ *  Created on: Sep 8, 2024
+ *      Author: Alperen
+ */
+
+#include <stdio.h>
+
+int main(void)
+{
+
+	float number = 27.0123456;
+
+	printf("Number = %f",number);
+
+}
+
+

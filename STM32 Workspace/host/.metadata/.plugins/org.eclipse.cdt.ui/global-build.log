@@ -1,25 +1,4 @@
-12:03:31 **** Incremental Build of configuration Debug for project 004type_casting ****
+12:39:57 **** Incremental Build of configuration Debug for project 005floatPrice ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o type_casting.o "..\\type_casting.c" 
-..\type_casting.c: In function 'main':
-..\type_casting.c:14:30: warning: unsigned conversion from 'int' to 'unsigned char' changes value from '65415' to '135' [-Woverflow]
-   14 |         unsigned char data = (0x87+0xFF00);
-      |                              ^
-gcc -o 004type_casting.exe type_casting.o 
-Info: Nothing to build for 004type_casting
-12:53:38 **** Incremental Build of configuration Debug for project 004type_casting ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o type_casting.o "..\\type_casting.c" 
-..\type_casting.c: In function 'main':
-..\type_casting.c:19:30: warning: unsigned conversion from 'int' to 'unsigned char' changes value from '65415' to '135' [-Woverflow]
-   19 |         unsigned char data = (0x87+0xFF00);
-      |                              ^
-gcc -o 004type_casting.exe type_casting.o 
-13:51:53 **** Incremental Build of configuration Debug for project 004type_casting ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o type_casting.o "..\\type_casting.c" 
-..\type_casting.c: In function 'main':
-..\type_casting.c:19:30: warning: unsigned conversion from 'int' to 'unsigned char' changes value from '65415' to '135' [-Woverflow]
-   19 |         unsigned char data = (0x87+0xFF00);
-      |                              ^
-gcc -o 004type_casting.exe type_casting.o 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o floatPrice.o "..\\floatPrice.c" 
+gcc -o 005floatPrice.exe floatPrice.o 

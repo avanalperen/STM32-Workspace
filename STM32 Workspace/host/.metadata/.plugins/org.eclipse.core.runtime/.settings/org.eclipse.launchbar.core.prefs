@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000TestProject,org.eclipse.launchbar.core.descriptorType.default\:000TestProject.exe,org.eclipse.launchbar.core.descriptorType.default\:001var_address.exe,org.eclipse.launchbar.core.descriptorType.default\:002function.exe,org.eclipse.launchbar.core.descriptorType.default\:003math.exe,org.eclipse.launchbar.core.descriptorType.default\:004type_casting.exe
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000TestProject,org.eclipse.launchbar.core.descriptorType.default\:000TestProject.exe,org.eclipse.launchbar.core.descriptorType.default\:001var_address.exe,org.eclipse.launchbar.core.descriptorType.default\:002function.exe,org.eclipse.launchbar.core.descriptorType.default\:003math.exe,org.eclipse.launchbar.core.descriptorType.default\:004type_casting.exe,org.eclipse.launchbar.core.descriptorType.default\:005floatPrice.exe
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000TestProject/activeLaunchTarget=null\:---
 org.eclipse.launchbar.core.descriptorType.default\:000TestProject.exe/activeLaunchMode=run
@@ -9,3 +9,4 @@ org.eclipse.launchbar.core.descriptorType.default\:000TestProject.exe/activeLaun
 org.eclipse.launchbar.core.descriptorType.default\:001var_address.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:002function.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:003math.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:004type_casting.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

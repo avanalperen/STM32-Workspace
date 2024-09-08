@@ -1,0 +1,25 @@
+/*
+ * floatPrice.c
+ *
+ *  Created on: Sep 8, 2024
+ *      Author: Alperen
+ */
+
+#include <stdio.h>
+
+int main(void)
+{
+
+	float number = 27.0123456;
+
+	printf("Number = %f",number);
+
+	// Output = 'Number = 27.0123456'
+	// It normally gives 6 numbers after the decimal
+	// It can be changed by .2f method
+
+	printf("Number = %.2f",number);
+
+}
+
+
